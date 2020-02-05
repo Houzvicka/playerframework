@@ -1,6 +1,6 @@
 ﻿﻿using System;
+using System.Windows;
 using Microsoft.Windows.Design.Metadata;
-using Windows.UI.Xaml;
 
 namespace Microsoft.PlayerFramework.Design.Types
 {
